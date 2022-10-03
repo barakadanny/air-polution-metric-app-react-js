@@ -1,62 +1,51 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Air pollution Metrics webapp
 
-# Project Name
-
-> Description the project.
-
+> This is a webapp that allows users to search for air pollution metrics in a given city.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React js
+- Redux
+- Css
+- Jest
+- Linters
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+Coming soon 🚀
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+Following are some instruction to use this project locally.
 
 ### Prerequisites
 
+- Node js
+- npm
+
 ### Setup
+
+- Clone the repository to your local machine
+- Run `npm install` to install the dependencies
+- Run `npm start` to start the server
 
 ### Install
 
+- Run `npm install` to install the dependencies
+
 ### Usage
+
+- Run `npm start` to start the server
 
 ### Run tests
 
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Run `npm test` to run the tests
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+In case you find a bug, please open an issue.
 
 ## Show your support
 
