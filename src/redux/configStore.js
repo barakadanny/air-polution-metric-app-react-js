@@ -10,3 +10,5 @@ const store = configureStore({
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware().concat(logger).concat(thunk),
 });
+
+export default store;
