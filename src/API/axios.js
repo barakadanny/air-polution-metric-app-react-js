@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "https://api.openweathermap.org/data/2.5/air_pollution?",
+  baseURL: "http://api.openweathermap.org/geo/1.0/direct?",
 });
 
 export default instance;

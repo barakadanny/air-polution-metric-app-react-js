@@ -1,7 +1,21 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
+import axios from "../API/axios";
+import requests from "../API/Request";
 import "./Banner.css";
 
 function Banner() {
+  const [city, setCity] = useState([]);
+
+  useEffect(() => {
+    async function fetchData() {
+      const request = await axios.get(requests.fetchLondon);
+      //   setCity(request.data);
+      //   return request;
+    }
+    fetchData();
+  }, []);
+  console.log(city);
+
   return (
     <header
       className="banner"
