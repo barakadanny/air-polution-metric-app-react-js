@@ -4,17 +4,17 @@ import requests from "../../API/Request";
 import "./Banner.css";
 
 function Banner() {
-  const [city, setCity] = useState([]);
+  // const [city, setCity] = useState([]);
 
-  useEffect(() => {
-    async function fetchData() {
-      const request = await axios.get(requests.fetchLondon);
-      //   setCity(request.data);
-      //   return request;
-    }
-    fetchData();
-  }, []);
-  console.log(city);
+  // useEffect(() => {
+  //   async function fetchData() {
+  //     const request = await axios.get(requests.fetchLondon);
+  //     //   setCity(request.data);
+  //     //   return request;
+  //   }
+  //   fetchData();
+  // }, []);
+  // console.log(city);
 
   return (
     <header
