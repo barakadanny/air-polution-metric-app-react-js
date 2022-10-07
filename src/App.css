@@ -10,6 +10,7 @@
 
 :root {
   --primary-color: rgba(236, 76, 138, 1);
+  --primary-color-2: rgb(197, 69, 118);
   --secondary-color: rgba(29, 29, 29, 1);
   --white-color: rgba(255, 255, 255, 1);
 }

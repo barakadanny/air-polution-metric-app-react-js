@@ -1,7 +1,16 @@
 .items {
     display: flex;
     flex-wrap: wrap;
-    background-color: red;
-    max-width: 1000px;
+    justify-content: space-between;
+    gap: 10px;
+    max-width: 800px;
     margin: 10px auto;
+    padding: 20px 0;
+}
+
+/* mobile version */
+@media (max-width: 768px) {
+    .items {
+        padding: 0 15px;
+    }
 }

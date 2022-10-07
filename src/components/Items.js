@@ -6,6 +6,8 @@ function Items() {
   return (
     <div className="items">
       <Item />
+      <Item />
+      <Item />
     </div>
   );
 }
