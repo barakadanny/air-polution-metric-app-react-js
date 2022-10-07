@@ -4,7 +4,7 @@ import { AiOutlineDoubleRight } from "react-icons/ai";
 import { BsFillGeoFill } from "react-icons/bs";
 import "./item.css";
 
-function Item({ name, lat, long, flag }) {
+function Item({ name, lat, long }) {
   return (
     <div className="item">
       <div className="item__content">
