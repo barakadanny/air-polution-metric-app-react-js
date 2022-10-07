@@ -1,8 +1,17 @@
 import React from "react";
+import Nav from "../components/Nav";
+import ItemBanner from "../components/itemScreen/ItemBanner";
+import ItemDetail from "../components/itemScreen/ItemDetail";
 import "./ItemScreen.css";
 
 function ItemScreen() {
-  return <div className="itemScreen">ItemScreen</div>;
+  return (
+    <div className="itemScreen">
+      <Nav />
+      <ItemBanner />
+      <ItemDetail />
+    </div>
+  );
 }
 
 export default ItemScreen;

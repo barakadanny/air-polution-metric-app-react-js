@@ -1,0 +1,9 @@
+.item__detail {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 10px;
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 20px 0;
+}
