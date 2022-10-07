@@ -1,21 +1,23 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { AiOutlineDoubleRight } from "react-icons/ai";
 import { BsFillGeoFill } from "react-icons/bs";
 import "./item.css";
 
-function Item() {
+function Item({ name, lat, long, flag }) {
   return (
     <div className="item">
-      {/* air polution */}
       <div className="item__content">
         <div className="item__title">
-          <h3>PARIS</h3>
-          <AiOutlineDoubleRight className="item__icon" />
+          <h3>{name}</h3>
+          <Link to={`/detail/${name}/${lat}/${long}`}>
+            <AiOutlineDoubleRight className="item__icon" />
+          </Link>
         </div>
         <div className="item__description">
           <div className="">
-            <span>2.3522N</span> <br />
-            <span>2.3522N</span>
+            <span>{lat} &deg;N</span> <br />
+            <span>{long} &deg;E</span>
           </div>
           <BsFillGeoFill className="item__icon" />
         </div>
