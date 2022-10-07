@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import "./Nav.css";
 
 function Nav() {
@@ -17,6 +18,11 @@ function Nav() {
     return () => window.removeEventListener("scroll", transitionNavBar);
   }, []);
 
+  const linkStyle = {
+    textDecoration: "none",
+    color: "#fff",
+  };
+
   return (
     <div className={`nav ${show && "nav__black"}`}>
       <div className="nav__contents">
@@ -27,7 +33,9 @@ function Nav() {
           alt="logo"
         />
         <ul className="nav__links">
-          <li className="nav__link">Home</li>
+          <Link style={linkStyle} to="/">
+            <li className="nav__link">Home</li>
+          </Link>
           <li className="nav__link">About</li>
         </ul>
       </div>
