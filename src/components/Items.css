@@ -1,0 +1,7 @@
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: red;
+    max-width: 1000px;
+    margin: 10px auto;
+}
