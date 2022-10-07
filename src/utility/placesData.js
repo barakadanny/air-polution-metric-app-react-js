@@ -1,5 +1,5 @@
 // import images from assets
-import brussels from "../assets/brussels.jpg";
+import brussels from "../assets/brussels.png";
 import paris from "../assets/paris.webp";
 import europe from "../assets/europe.webp";
 import rome from "../assets/rome.webp";
