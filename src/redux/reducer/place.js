@@ -4,30 +4,30 @@ const BASE_URL = "https://api.openweathermap.org/data/2.5/air_pollution?";
 const API_KEY = "f1d8a4d595c7a03c5224b9f44ae09d6d";
 const LOAD_DATA = "city/LOAD_DATA";
 
-const initialState = [
-  {
-    city: "London",
-    lat: 51.5074,
-    lon: 0.1278,
-    list: [
-      {
-        main: {
-          aqi: 1,
-        },
-        components: {
-          co: 0.5,
-          no: 0,
-          no2: 0.46,
-          o3: 16.11,
-          so2: 0.01,
-          pm2_5: 0.01,
-          pm10: 0.01,
-          nh3: 188.59,
-        },
-      },
-    ],
+const initialState = {
+  coord: {
+    lon: 15.2551,
+    lat: 54.526,
   },
-];
+  list: [
+    {
+      main: {
+        aqi: 1,
+      },
+      components: {
+        co: 185.25,
+        no: 0,
+        no2: 2.53,
+        o3: 67.95,
+        so2: 1.19,
+        pm2_5: 4.82,
+        pm10: 8.77,
+        nh3: 1.33,
+      },
+      dt: 1665184397,
+    },
+  ],
+};
 
 const placeSlice = createSlice({
   name: "place",

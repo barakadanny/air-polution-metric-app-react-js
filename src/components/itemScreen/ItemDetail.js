@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 import "./ItemDetail.css";
 
 function ItemDetail() {
-  const place = useSelector((state) => console.log(state));
+  const place = useSelector((state) => state.place);
   return (
     <div className="item__detail">
       <div className="item__detail__content">
