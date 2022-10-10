@@ -51,7 +51,7 @@ const placesData = [
     long: 4.3517,
   },
   {
-    id: 7,
+    id: 8,
     name: "Europe",
     lat: 54.526,
     long: 15.2551,
