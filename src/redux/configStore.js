@@ -1,14 +1,10 @@
-import { configureStore, applyMiddleware } from "@reduxjs/toolkit";
-import thunk from "redux-thunk";
-import logger from "redux-logger";
-import cityReducer from "./reducer/actions";
+import { configureStore } from "@reduxjs/toolkit";
+import placeReducer from "./reducer/place";
 
 const store = configureStore({
   reducer: {
-    city: cityReducer,
+    place: placeReducer,
   },
-  middleware: (getDefaultMiddleware) =>
-    getDefaultMiddleware().concat(logger).concat(thunk),
 });
 
 export default store;
