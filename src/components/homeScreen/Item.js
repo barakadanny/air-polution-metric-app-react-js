@@ -3,13 +3,13 @@ import { Link } from "react-router-dom";
 import { AiOutlineDoubleRight } from "react-icons/ai";
 import { BsFillGeoFill } from "react-icons/bs";
 import { fetchData } from "../../redux/reducer/place";
+import { useDispatch } from "react-redux";
 import "./item.css";
 
 function Item({ name, lat, long }) {
+  const dispatch = useDispatch();
   const fetchDataHandler = () => {
-    fetchData(lat, long);
-    // console.log(lat, long);
-    // console.log("clicked");
+    dispatch(fetchData({ lat, long }));
   };
 
   return (
