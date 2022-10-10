@@ -2,7 +2,7 @@ import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 
 const BASE_URL = "https://api.openweathermap.org/data/2.5/air_pollution?";
 const API_KEY = "f1d8a4d595c7a03c5224b9f44ae09d6d";
-const LOAD_DATA = "city/LOAD_DATA";
+const LOAD_DATA = "place/LOAD_DATA";
 
 const initialState = {
   coord: {
@@ -39,5 +39,14 @@ const placeSlice = createSlice({
   },
 });
 
-// export const { fetchPlaceDetails } = placeSlice.actions;
+const fetchData = createAsyncThunk(LOAD_DATA, async (lat, long) => {
+  const response = await fetch(
+    // `${BASE_URL}lat=${lat}&lon=${long}&appid=${API_KEY}`
+    `https://api.openweathermap.org/data/2.5/air_pollution?lat=54.5260&lon=15.2551&appid=f1d8a4d595c7a03c5224b9f44ae09d6d`
+  );
+  const data = await response.json();
+  //   console.log(data);
+});
+
 export default placeSlice.reducer;
+export { fetchData };

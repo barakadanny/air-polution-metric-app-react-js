@@ -13,7 +13,6 @@ function Items() {
           name={place.name}
           lat={place.lat}
           long={place.long}
-          flag={place.flagUrl}
         />
       ))}
     </div>

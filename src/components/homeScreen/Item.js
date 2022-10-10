@@ -2,15 +2,25 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { AiOutlineDoubleRight } from "react-icons/ai";
 import { BsFillGeoFill } from "react-icons/bs";
+import { fetchData } from "../../redux/reducer/place";
 import "./item.css";
 
 function Item({ name, lat, long }) {
+  const fetchDataHandler = () => {
+    fetchData(lat, long);
+    // console.log(lat, long);
+    // console.log("clicked");
+  };
+
   return (
     <div className="item">
       <div className="item__content">
         <div className="item__title">
           <h3>{name}</h3>
-          <Link to={`/detail/${name}/${lat}/${long}`}>
+          <Link
+            to={`/detail/${name}/${lat}/${long}`}
+            onClick={fetchDataHandler}
+          >
             <AiOutlineDoubleRight className="item__icon" />
           </Link>
         </div>
