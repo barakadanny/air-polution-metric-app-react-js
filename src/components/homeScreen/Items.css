@@ -12,6 +12,27 @@
     padding: 20px 0;
 }
 
+.search__input {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+}
+
+.search__input:focus {
+    border: 1px solid var(--primary-color);
+}
+
+.search__input::placeholder {
+    color: #ccc;
+}
+
+.search__input:focus::placeholder {
+    color: #000;
+}
+
 /* mobile version */
 @media (max-width: 768px) {
     .items {
