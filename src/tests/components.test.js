@@ -6,6 +6,7 @@ import { Provider } from "react-redux";
 
 import Nav from "../components/Nav";
 import ItemDetail from "../components/itemScreen/ItemDetail";
+import Items from "../components/homeScreen/Items";
 
 describe("Navbar", () => {
   it("should render the navbar", () => {
@@ -28,5 +29,18 @@ describe("ItemDetail", () => {
       </Provider>
     );
     expect(item).toMatchSnapshot();
+  });
+});
+
+describe("Items", () => {
+  it("should render the items", () => {
+    const items = render(
+      <Provider>
+        <Router>
+          <Items />
+        </Router>
+      </Provider>
+    );
+    expect(items).toMatchSnapshot();
   });
 });
