@@ -6,6 +6,7 @@
 
 - React js
 - Redux
+- API
 - Css
 - Jest
 - Linters
