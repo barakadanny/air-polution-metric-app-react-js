@@ -3,9 +3,13 @@
   background-color: var(--primary-color-2);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
-  width: 49%;
+  width: 50%;
   padding: 1rem;
 }
+
+/* .item:nth-child(2n+3) {
+  background-color: red;
+} */
 
 .item:hover {
   transform: scale(1.05);
@@ -62,11 +66,4 @@
   font-size: 1.2rem;
   font-weight: 400;
   margin-bottom: 1rem;
-}
-
-/* mobile version */
-@media (max-width: 768px) {
-  .item {
-    width: 100%;
-  }
 }
