@@ -12,7 +12,9 @@
 
 ## Live Demo
 
-Coming soon 🚀
+- [Click here for Live Demo 🚀](https://silver-lamington-1c50bf.netlify.app//)
+
+- [Project Presentation 🎥](https://drive.google.com/file/d/1BOg3MGJPsp1UsGmdUok-hcfAABocKJTc/view?usp=sharing)
 
 ## Getting Started
 
