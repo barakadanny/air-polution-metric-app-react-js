@@ -1,6 +1,5 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import "./ItemBanner.css";
 
 function ItemBanner() {
   const { name, lat, long } = useParams();
