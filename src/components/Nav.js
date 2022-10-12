@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from "react";
-import { Link } from "react-router-dom";
-import "./Nav.css";
+import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import './Nav.css';
 
 function Nav() {
   const [show, handleShow] = useState(false);
@@ -14,17 +14,17 @@ function Nav() {
   };
 
   useEffect(() => {
-    window.addEventListener("scroll", transitionNavBar);
-    return () => window.removeEventListener("scroll", transitionNavBar);
+    window.addEventListener('scroll', transitionNavBar);
+    return () => window.removeEventListener('scroll', transitionNavBar);
   }, []);
 
   const linkStyle = {
-    textDecoration: "none",
-    color: "#fff",
+    textDecoration: 'none',
+    color: '#fff',
   };
 
   return (
-    <div className={`nav ${show && "nav__black"}`}>
+    <div className={`nav ${show && 'nav__black'}`}>
       <div className="nav__contents">
         {/* logo of air pollution */}
         <img

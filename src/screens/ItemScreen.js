@@ -1,7 +1,7 @@
-import React from "react";
-import Nav from "../components/Nav";
-import ItemBanner from "../components/itemScreen/ItemBanner";
-import ItemDetail from "../components/itemScreen/ItemDetail";
+import React from 'react';
+import Nav from '../components/Nav';
+import ItemBanner from '../components/itemScreen/ItemBanner';
+import ItemDetail from '../components/itemScreen/ItemDetail';
 
 function ItemScreen() {
   return (

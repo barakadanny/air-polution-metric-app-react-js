@@ -1,7 +1,7 @@
-import React from "react";
-import Item from "./Item";
-import placesData from "../../utility/placesData";
-import "./Items.css";
+import React from 'react';
+import Item from './Item';
+import placesData from '../../utility/placesData';
+import './Items.css';
 
 function Items() {
   return (
