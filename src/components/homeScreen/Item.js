@@ -1,10 +1,11 @@
-import React from "react";
-import { Link } from "react-router-dom";
-import { AiOutlineDoubleRight } from "react-icons/ai";
-import { BsFillGeoFill } from "react-icons/bs";
-import { fetchData } from "../../redux/reducer/place";
-import { useDispatch } from "react-redux";
-import "./item.css";
+import React from 'react';
+import ProtoTypes from 'prop-types';
+import { Link } from 'react-router-dom';
+import { AiOutlineDoubleRight } from 'react-icons/ai';
+import { BsFillGeoFill } from 'react-icons/bs';
+import { useDispatch } from 'react-redux';
+import { fetchData } from '../../redux/reducer/place';
+import './item.css';
 
 function Item({ name, lat, long }) {
   const dispatch = useDispatch();
@@ -26,8 +27,18 @@ function Item({ name, lat, long }) {
         </div>
         <div className="item__description">
           <div className="">
-            <span>{lat} &deg;N</span> <br />
-            <span>{long} &deg;E</span>
+            <span>
+              {lat}
+              {' '}
+              &deg;N
+            </span>
+            {' '}
+            <br />
+            <span>
+              {long}
+              {' '}
+              &deg;E
+            </span>
           </div>
           <BsFillGeoFill className="item__icon" />
         </div>
@@ -35,5 +46,11 @@ function Item({ name, lat, long }) {
     </div>
   );
 }
+
+Item.propTypes = {
+  name: ProtoTypes.string.isRequired,
+  lat: ProtoTypes.number.isRequired,
+  long: ProtoTypes.number.isRequired,
+};
 
 export default Item;
