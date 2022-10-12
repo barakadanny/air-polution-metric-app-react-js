@@ -9,7 +9,7 @@ function ItemBanner() {
       className="banner"
       style={{
         backgroundSize: "cover",
-        backgroundImage: `url("https://images.pexels.com/photos/2448946/pexels-photo-2448946.jpeg?auto=compress&cs=tinysrgb&w=1600")`,
+        backgroundImage: `url("https://cdn.pixabay.com/photo/2021/01/24/20/21/cloud-5946381_960_720.jpg")`,
         backgroundPosition: "center center",
       }}
     >
