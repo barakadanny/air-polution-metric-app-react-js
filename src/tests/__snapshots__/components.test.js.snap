@@ -1,0 +1,1652 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemDetail should render the item detail 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="item__detail"
+      >
+        <div
+          class="item__detail__content"
+        >
+          <div
+            class="item__detail__title"
+          >
+            CO:
+          </div>
+          <div
+            class="item__detail__description"
+          />
+        </div>
+        <div
+          class="item__detail__content"
+        >
+          <div
+            class="item__detail__title"
+          >
+            NH3:
+          </div>
+          <div
+            class="item__detail__description"
+          />
+        </div>
+        <div
+          class="item__detail__content"
+        >
+          <div
+            class="item__detail__title"
+          >
+            NO:
+          </div>
+          <div
+            class="item__detail__description"
+          />
+        </div>
+        <div
+          class="item__detail__content"
+        >
+          <div
+            class="item__detail__title"
+          >
+            NO2:
+          </div>
+          <div
+            class="item__detail__description"
+          />
+        </div>
+        <div
+          class="item__detail__content"
+        >
+          <div
+            class="item__detail__title"
+          >
+            03:
+          </div>
+          <div
+            class="item__detail__description"
+          />
+        </div>
+        <div
+          class="item__detail__content"
+        >
+          <div
+            class="item__detail__title"
+          >
+            PM2_5:
+          </div>
+          <div
+            class="item__detail__description"
+          />
+        </div>
+        <div
+          class="item__detail__content"
+        >
+          <div
+            class="item__detail__title"
+          >
+            PM10:
+          </div>
+          <div
+            class="item__detail__description"
+          />
+        </div>
+        <div
+          class="item__detail__content"
+        >
+          <div
+            class="item__detail__title"
+          >
+            SO2:
+          </div>
+          <div
+            class="item__detail__description"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="item__detail"
+    >
+      <div
+        class="item__detail__content"
+      >
+        <div
+          class="item__detail__title"
+        >
+          CO:
+        </div>
+        <div
+          class="item__detail__description"
+        />
+      </div>
+      <div
+        class="item__detail__content"
+      >
+        <div
+          class="item__detail__title"
+        >
+          NH3:
+        </div>
+        <div
+          class="item__detail__description"
+        />
+      </div>
+      <div
+        class="item__detail__content"
+      >
+        <div
+          class="item__detail__title"
+        >
+          NO:
+        </div>
+        <div
+          class="item__detail__description"
+        />
+      </div>
+      <div
+        class="item__detail__content"
+      >
+        <div
+          class="item__detail__title"
+        >
+          NO2:
+        </div>
+        <div
+          class="item__detail__description"
+        />
+      </div>
+      <div
+        class="item__detail__content"
+      >
+        <div
+          class="item__detail__title"
+        >
+          03:
+        </div>
+        <div
+          class="item__detail__description"
+        />
+      </div>
+      <div
+        class="item__detail__content"
+      >
+        <div
+          class="item__detail__title"
+        >
+          PM2_5:
+        </div>
+        <div
+          class="item__detail__description"
+        />
+      </div>
+      <div
+        class="item__detail__content"
+      >
+        <div
+          class="item__detail__title"
+        >
+          PM10:
+        </div>
+        <div
+          class="item__detail__description"
+        />
+      </div>
+      <div
+        class="item__detail__content"
+      >
+        <div
+          class="item__detail__title"
+        >
+          SO2:
+        </div>
+        <div
+          class="item__detail__description"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Items should render the items 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="items"
+      >
+        <div
+          class="items__search"
+        >
+          <input
+            class="search__input"
+            placeholder="Search"
+            type="text"
+          />
+        </div>
+        <div
+          class="items__container"
+        >
+          <div
+            class="item"
+          >
+            <div
+              class="item__content"
+            >
+              <div
+                class="item__title"
+              >
+                <h3>
+                  Paris
+                </h3>
+                <a
+                  href="/detail/Paris/48.8566/2.3522"
+                >
+                  <svg
+                    class="item__icon"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 1024 1024"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div
+                class="item__description"
+              >
+                <div
+                  class=""
+                >
+                  <span>
+                    48.8566
+                     
+                    °N
+                  </span>
+                   
+                  <br />
+                  <span>
+                    2.3522
+                     
+                    °E
+                  </span>
+                </div>
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 16 16"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="item"
+          >
+            <div
+              class="item__content"
+            >
+              <div
+                class="item__title"
+              >
+                <h3>
+                  Lisbon
+                </h3>
+                <a
+                  href="/detail/Lisbon/38.7223/9.1393"
+                >
+                  <svg
+                    class="item__icon"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 1024 1024"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div
+                class="item__description"
+              >
+                <div
+                  class=""
+                >
+                  <span>
+                    38.7223
+                     
+                    °N
+                  </span>
+                   
+                  <br />
+                  <span>
+                    9.1393
+                     
+                    °E
+                  </span>
+                </div>
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 16 16"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="item"
+          >
+            <div
+              class="item__content"
+            >
+              <div
+                class="item__title"
+              >
+                <h3>
+                  Madrid
+                </h3>
+                <a
+                  href="/detail/Madrid/40.4168/3.7038"
+                >
+                  <svg
+                    class="item__icon"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 1024 1024"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div
+                class="item__description"
+              >
+                <div
+                  class=""
+                >
+                  <span>
+                    40.4168
+                     
+                    °N
+                  </span>
+                   
+                  <br />
+                  <span>
+                    3.7038
+                     
+                    °E
+                  </span>
+                </div>
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 16 16"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="item"
+          >
+            <div
+              class="item__content"
+            >
+              <div
+                class="item__title"
+              >
+                <h3>
+                  Rome
+                </h3>
+                <a
+                  href="/detail/Rome/41.9028/12.4964"
+                >
+                  <svg
+                    class="item__icon"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 1024 1024"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div
+                class="item__description"
+              >
+                <div
+                  class=""
+                >
+                  <span>
+                    41.9028
+                     
+                    °N
+                  </span>
+                   
+                  <br />
+                  <span>
+                    12.4964
+                     
+                    °E
+                  </span>
+                </div>
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 16 16"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="item"
+          >
+            <div
+              class="item__content"
+            >
+              <div
+                class="item__title"
+              >
+                <h3>
+                  Barcelona
+                </h3>
+                <a
+                  href="/detail/Barcelona/41.3851/2.1734"
+                >
+                  <svg
+                    class="item__icon"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 1024 1024"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div
+                class="item__description"
+              >
+                <div
+                  class=""
+                >
+                  <span>
+                    41.3851
+                     
+                    °N
+                  </span>
+                   
+                  <br />
+                  <span>
+                    2.1734
+                     
+                    °E
+                  </span>
+                </div>
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 16 16"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="item"
+          >
+            <div
+              class="item__content"
+            >
+              <div
+                class="item__title"
+              >
+                <h3>
+                  Warsaw
+                </h3>
+                <a
+                  href="/detail/Warsaw/52.2297/21.0122"
+                >
+                  <svg
+                    class="item__icon"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 1024 1024"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div
+                class="item__description"
+              >
+                <div
+                  class=""
+                >
+                  <span>
+                    52.2297
+                     
+                    °N
+                  </span>
+                   
+                  <br />
+                  <span>
+                    21.0122
+                     
+                    °E
+                  </span>
+                </div>
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 16 16"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="item"
+          >
+            <div
+              class="item__content"
+            >
+              <div
+                class="item__title"
+              >
+                <h3>
+                  Brussels
+                </h3>
+                <a
+                  href="/detail/Brussels/50.8503/4.3517"
+                >
+                  <svg
+                    class="item__icon"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 1024 1024"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div
+                class="item__description"
+              >
+                <div
+                  class=""
+                >
+                  <span>
+                    50.8503
+                     
+                    °N
+                  </span>
+                   
+                  <br />
+                  <span>
+                    4.3517
+                     
+                    °E
+                  </span>
+                </div>
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 16 16"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div
+            class="item"
+          >
+            <div
+              class="item__content"
+            >
+              <div
+                class="item__title"
+              >
+                <h3>
+                  Europe
+                </h3>
+                <a
+                  href="/detail/Europe/54.526/15.2551"
+                >
+                  <svg
+                    class="item__icon"
+                    fill="currentColor"
+                    height="1em"
+                    stroke="currentColor"
+                    stroke-width="0"
+                    viewBox="0 0 1024 1024"
+                    width="1em"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div
+                class="item__description"
+              >
+                <div
+                  class=""
+                >
+                  <span>
+                    54.526
+                     
+                    °N
+                  </span>
+                   
+                  <br />
+                  <span>
+                    15.2551
+                     
+                    °E
+                  </span>
+                </div>
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 16 16"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                    fill-rule="evenodd"
+                  />
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="items"
+    >
+      <div
+        class="items__search"
+      >
+        <input
+          class="search__input"
+          placeholder="Search"
+          type="text"
+        />
+      </div>
+      <div
+        class="items__container"
+      >
+        <div
+          class="item"
+        >
+          <div
+            class="item__content"
+          >
+            <div
+              class="item__title"
+            >
+              <h3>
+                Paris
+              </h3>
+              <a
+                href="/detail/Paris/48.8566/2.3522"
+              >
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="item__description"
+            >
+              <div
+                class=""
+              >
+                <span>
+                  48.8566
+                   
+                  °N
+                </span>
+                 
+                <br />
+                <span>
+                  2.3522
+                   
+                  °E
+                </span>
+              </div>
+              <svg
+                class="item__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="item"
+        >
+          <div
+            class="item__content"
+          >
+            <div
+              class="item__title"
+            >
+              <h3>
+                Lisbon
+              </h3>
+              <a
+                href="/detail/Lisbon/38.7223/9.1393"
+              >
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="item__description"
+            >
+              <div
+                class=""
+              >
+                <span>
+                  38.7223
+                   
+                  °N
+                </span>
+                 
+                <br />
+                <span>
+                  9.1393
+                   
+                  °E
+                </span>
+              </div>
+              <svg
+                class="item__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="item"
+        >
+          <div
+            class="item__content"
+          >
+            <div
+              class="item__title"
+            >
+              <h3>
+                Madrid
+              </h3>
+              <a
+                href="/detail/Madrid/40.4168/3.7038"
+              >
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="item__description"
+            >
+              <div
+                class=""
+              >
+                <span>
+                  40.4168
+                   
+                  °N
+                </span>
+                 
+                <br />
+                <span>
+                  3.7038
+                   
+                  °E
+                </span>
+              </div>
+              <svg
+                class="item__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="item"
+        >
+          <div
+            class="item__content"
+          >
+            <div
+              class="item__title"
+            >
+              <h3>
+                Rome
+              </h3>
+              <a
+                href="/detail/Rome/41.9028/12.4964"
+              >
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="item__description"
+            >
+              <div
+                class=""
+              >
+                <span>
+                  41.9028
+                   
+                  °N
+                </span>
+                 
+                <br />
+                <span>
+                  12.4964
+                   
+                  °E
+                </span>
+              </div>
+              <svg
+                class="item__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="item"
+        >
+          <div
+            class="item__content"
+          >
+            <div
+              class="item__title"
+            >
+              <h3>
+                Barcelona
+              </h3>
+              <a
+                href="/detail/Barcelona/41.3851/2.1734"
+              >
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="item__description"
+            >
+              <div
+                class=""
+              >
+                <span>
+                  41.3851
+                   
+                  °N
+                </span>
+                 
+                <br />
+                <span>
+                  2.1734
+                   
+                  °E
+                </span>
+              </div>
+              <svg
+                class="item__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="item"
+        >
+          <div
+            class="item__content"
+          >
+            <div
+              class="item__title"
+            >
+              <h3>
+                Warsaw
+              </h3>
+              <a
+                href="/detail/Warsaw/52.2297/21.0122"
+              >
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="item__description"
+            >
+              <div
+                class=""
+              >
+                <span>
+                  52.2297
+                   
+                  °N
+                </span>
+                 
+                <br />
+                <span>
+                  21.0122
+                   
+                  °E
+                </span>
+              </div>
+              <svg
+                class="item__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="item"
+        >
+          <div
+            class="item__content"
+          >
+            <div
+              class="item__title"
+            >
+              <h3>
+                Brussels
+              </h3>
+              <a
+                href="/detail/Brussels/50.8503/4.3517"
+              >
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="item__description"
+            >
+              <div
+                class=""
+              >
+                <span>
+                  50.8503
+                   
+                  °N
+                </span>
+                 
+                <br />
+                <span>
+                  4.3517
+                   
+                  °E
+                </span>
+              </div>
+              <svg
+                class="item__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="item"
+        >
+          <div
+            class="item__content"
+          >
+            <div
+              class="item__title"
+            >
+              <h3>
+                Europe
+              </h3>
+              <a
+                href="/detail/Europe/54.526/15.2551"
+              >
+                <svg
+                  class="item__icon"
+                  fill="currentColor"
+                  height="1em"
+                  stroke="currentColor"
+                  stroke-width="0"
+                  viewBox="0 0 1024 1024"
+                  width="1em"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M533.2 492.3L277.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H188c-6.7 0-10.4 7.7-6.3 12.9L447.1 512 181.7 851.1A7.98 7.98 0 0 0 188 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5zm304 0L581.9 166.1c-3-3.9-7.7-6.1-12.6-6.1H492c-6.7 0-10.4 7.7-6.3 12.9L751.1 512 485.7 851.1A7.98 7.98 0 0 0 492 864h77.3c4.9 0 9.6-2.3 12.6-6.1l255.3-326.1c9.1-11.7 9.1-27.9 0-39.5z"
+                  />
+                </svg>
+              </a>
+            </div>
+            <div
+              class="item__description"
+            >
+              <div
+                class=""
+              >
+                <span>
+                  54.526
+                   
+                  °N
+                </span>
+                 
+                <br />
+                <span>
+                  15.2551
+                   
+                  °E
+                </span>
+              </div>
+              <svg
+                class="item__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M4 4a4 4 0 1 1 4.5 3.969V13.5a.5.5 0 0 1-1 0V7.97A4 4 0 0 1 4 3.999zm2.493 8.574a.5.5 0 0 1-.411.575c-.712.118-1.28.295-1.655.493a1.319 1.319 0 0 0-.37.265.301.301 0 0 0-.057.09V14l.002.008a.147.147 0 0 0 .016.033.617.617 0 0 0 .145.15c.165.13.435.27.813.395.751.25 1.82.414 3.024.414s2.273-.163 3.024-.414c.378-.126.648-.265.813-.395a.619.619 0 0 0 .146-.15.148.148 0 0 0 .015-.033L12 14v-.004a.301.301 0 0 0-.057-.09 1.318 1.318 0 0 0-.37-.264c-.376-.198-.943-.375-1.655-.493a.5.5 0 1 1 .164-.986c.77.127 1.452.328 1.957.594C12.5 13 13 13.4 13 14c0 .426-.26.752-.544.977-.29.228-.68.413-1.116.558-.878.293-2.059.465-3.34.465-1.281 0-2.462-.172-3.34-.465-.436-.145-.826-.33-1.116-.558C3.26 14.752 3 14.426 3 14c0-.599.5-1 .961-1.243.505-.266 1.187-.467 1.957-.594a.5.5 0 0 1 .575.411z"
+                  fill-rule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Navbar should render the navbar 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="nav false"
+      >
+        <div
+          class="nav__contents"
+        >
+          <h1
+            class="nav__logo"
+          >
+            <a
+              href="/"
+              style="text-decoration: none; color: rgb(255, 255, 255);"
+            >
+              <svg
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 0 0 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+                />
+              </svg>
+            </a>
+          </h1>
+          <ul
+            class="nav__links"
+          >
+            <li
+              class="nav__link"
+            >
+              <svg
+                class="nav__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M842 454c0-4.4-3.6-8-8-8h-60c-4.4 0-8 3.6-8 8 0 140.3-113.7 254-254 254S258 594.3 258 454c0-4.4-3.6-8-8-8h-60c-4.4 0-8 3.6-8 8 0 168.7 126.6 307.9 290 327.6V884H326.7c-13.7 0-24.7 14.3-24.7 32v36c0 4.4 2.8 8 6.2 8h407.6c3.4 0 6.2-3.6 6.2-8v-36c0-17.7-11-32-24.7-32H548V782.1c165.3-18 294-158 294-328.1zM512 624c93.9 0 170-75.2 170-168V232c0-92.8-76.1-168-170-168s-170 75.2-170 168v224c0 92.8 76.1 168 170 168zm-94-392c0-50.6 41.9-92 94-92s94 41.4 94 92v224c0 50.6-41.9 92-94 92s-94-41.4-94-92V232z"
+                />
+              </svg>
+            </li>
+            <li
+              class="nav__link"
+            >
+              <svg
+                class="nav__icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                stroke-width="0"
+                viewBox="0 0 1024 1024"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M512.5 390.6c-29.9 0-57.9 11.6-79.1 32.8-21.1 21.2-32.8 49.2-32.8 79.1 0 29.9 11.7 57.9 32.8 79.1 21.2 21.1 49.2 32.8 79.1 32.8 29.9 0 57.9-11.7 79.1-32.8 21.1-21.2 32.8-49.2 32.8-79.1 0-29.9-11.7-57.9-32.8-79.1a110.96 110.96 0 0 0-79.1-32.8zm412.3 235.5l-65.4-55.9c3.1-19 4.7-38.4 4.7-57.7s-1.6-38.8-4.7-57.7l65.4-55.9a32.03 32.03 0 0 0 9.3-35.2l-.9-2.6a442.5 442.5 0 0 0-79.6-137.7l-1.8-2.1a32.12 32.12 0 0 0-35.1-9.5l-81.2 28.9c-30-24.6-63.4-44-99.6-57.5l-15.7-84.9a32.05 32.05 0 0 0-25.8-25.7l-2.7-.5c-52-9.4-106.8-9.4-158.8 0l-2.7.5a32.05 32.05 0 0 0-25.8 25.7l-15.8 85.3a353.44 353.44 0 0 0-98.9 57.3l-81.8-29.1a32 32 0 0 0-35.1 9.5l-1.8 2.1a445.93 445.93 0 0 0-79.6 137.7l-.9 2.6c-4.5 12.5-.8 26.5 9.3 35.2l66.2 56.5c-3.1 18.8-4.6 38-4.6 57 0 19.2 1.5 38.4 4.6 57l-66 56.5a32.03 32.03 0 0 0-9.3 35.2l.9 2.6c18.1 50.3 44.8 96.8 79.6 137.7l1.8 2.1a32.12 32.12 0 0 0 35.1 9.5l81.8-29.1c29.8 24.5 63 43.9 98.9 57.3l15.8 85.3a32.05 32.05 0 0 0 25.8 25.7l2.7.5a448.27 448.27 0 0 0 158.8 0l2.7-.5a32.05 32.05 0 0 0 25.8-25.7l15.7-84.9c36.2-13.6 69.6-32.9 99.6-57.5l81.2 28.9a32 32 0 0 0 35.1-9.5l1.8-2.1c34.8-41.1 61.5-87.4 79.6-137.7l.9-2.6c4.3-12.4.6-26.3-9.5-35zm-412.3 52.2c-97.1 0-175.8-78.7-175.8-175.8s78.7-175.8 175.8-175.8 175.8 78.7 175.8 175.8-78.7 175.8-175.8 175.8z"
+                />
+              </svg>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="nav false"
+    >
+      <div
+        class="nav__contents"
+      >
+        <h1
+          class="nav__logo"
+        >
+          <a
+            href="/"
+            style="text-decoration: none; color: rgb(255, 255, 255);"
+          >
+            <svg
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 1024 1024"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M724 218.3V141c0-6.7-7.7-10.4-12.9-6.3L260.3 486.8a31.86 31.86 0 0 0 0 50.3l450.8 352.1c5.3 4.1 12.9.4 12.9-6.3v-77.3c0-4.9-2.3-9.6-6.1-12.6l-360-281 360-281.1c3.8-3 6.1-7.7 6.1-12.6z"
+              />
+            </svg>
+          </a>
+        </h1>
+        <ul
+          class="nav__links"
+        >
+          <li
+            class="nav__link"
+          >
+            <svg
+              class="nav__icon"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 1024 1024"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M842 454c0-4.4-3.6-8-8-8h-60c-4.4 0-8 3.6-8 8 0 140.3-113.7 254-254 254S258 594.3 258 454c0-4.4-3.6-8-8-8h-60c-4.4 0-8 3.6-8 8 0 168.7 126.6 307.9 290 327.6V884H326.7c-13.7 0-24.7 14.3-24.7 32v36c0 4.4 2.8 8 6.2 8h407.6c3.4 0 6.2-3.6 6.2-8v-36c0-17.7-11-32-24.7-32H548V782.1c165.3-18 294-158 294-328.1zM512 624c93.9 0 170-75.2 170-168V232c0-92.8-76.1-168-170-168s-170 75.2-170 168v224c0 92.8 76.1 168 170 168zm-94-392c0-50.6 41.9-92 94-92s94 41.4 94 92v224c0 50.6-41.9 92-94 92s-94-41.4-94-92V232z"
+              />
+            </svg>
+          </li>
+          <li
+            class="nav__link"
+          >
+            <svg
+              class="nav__icon"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 1024 1024"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M512.5 390.6c-29.9 0-57.9 11.6-79.1 32.8-21.1 21.2-32.8 49.2-32.8 79.1 0 29.9 11.7 57.9 32.8 79.1 21.2 21.1 49.2 32.8 79.1 32.8 29.9 0 57.9-11.7 79.1-32.8 21.1-21.2 32.8-49.2 32.8-79.1 0-29.9-11.7-57.9-32.8-79.1a110.96 110.96 0 0 0-79.1-32.8zm412.3 235.5l-65.4-55.9c3.1-19 4.7-38.4 4.7-57.7s-1.6-38.8-4.7-57.7l65.4-55.9a32.03 32.03 0 0 0 9.3-35.2l-.9-2.6a442.5 442.5 0 0 0-79.6-137.7l-1.8-2.1a32.12 32.12 0 0 0-35.1-9.5l-81.2 28.9c-30-24.6-63.4-44-99.6-57.5l-15.7-84.9a32.05 32.05 0 0 0-25.8-25.7l-2.7-.5c-52-9.4-106.8-9.4-158.8 0l-2.7.5a32.05 32.05 0 0 0-25.8 25.7l-15.8 85.3a353.44 353.44 0 0 0-98.9 57.3l-81.8-29.1a32 32 0 0 0-35.1 9.5l-1.8 2.1a445.93 445.93 0 0 0-79.6 137.7l-.9 2.6c-4.5 12.5-.8 26.5 9.3 35.2l66.2 56.5c-3.1 18.8-4.6 38-4.6 57 0 19.2 1.5 38.4 4.6 57l-66 56.5a32.03 32.03 0 0 0-9.3 35.2l.9 2.6c18.1 50.3 44.8 96.8 79.6 137.7l1.8 2.1a32.12 32.12 0 0 0 35.1 9.5l81.8-29.1c29.8 24.5 63 43.9 98.9 57.3l15.8 85.3a32.05 32.05 0 0 0 25.8 25.7l2.7.5a448.27 448.27 0 0 0 158.8 0l2.7-.5a32.05 32.05 0 0 0 25.8-25.7l15.7-84.9c36.2-13.6 69.6-32.9 99.6-57.5l81.2 28.9a32 32 0 0 0 35.1-9.5l1.8-2.1c34.8-41.1 61.5-87.4 79.6-137.7l.9-2.6c4.3-12.4.6-26.3-9.5-35zm-412.3 52.2c-97.1 0-175.8-78.7-175.8-175.8s78.7-175.8 175.8-175.8 175.8 78.7 175.8 175.8-78.7 175.8-175.8 175.8z"
+              />
+            </svg>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

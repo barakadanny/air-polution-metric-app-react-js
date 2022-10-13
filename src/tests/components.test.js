@@ -3,6 +3,7 @@ import { render } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
+import store from '../redux/configStore';
 
 import Nav from '../components/Nav';
 import ItemDetail from '../components/itemScreen/ItemDetail';
@@ -22,7 +23,7 @@ describe('Navbar', () => {
 describe('ItemDetail', () => {
   it('should render the item detail', () => {
     const item = render(
-      <Provider>
+      <Provider store={store}>
         <Router>
           <ItemDetail />
         </Router>
@@ -35,7 +36,7 @@ describe('ItemDetail', () => {
 describe('Items', () => {
   it('should render the items', () => {
     const items = render(
-      <Provider>
+      <Provider store={store}>
         <Router>
           <Items />
         </Router>

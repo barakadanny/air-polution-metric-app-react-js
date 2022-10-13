@@ -6,13 +6,16 @@
 
 - React js
 - Redux
+- API
 - Css
 - Jest
 - Linters
 
 ## Live Demo
 
-Coming soon 🚀
+- [Click here for Live Demo 🚀](https://silver-lamington-1c50bf.netlify.app//)
+
+- [Project Presentation 🎥](https://drive.google.com/file/d/1BOg3MGJPsp1UsGmdUok-hcfAABocKJTc/view?usp=sharing)
 
 ## Getting Started
 
@@ -53,9 +56,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-My appreciations to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>).
 
 ## 📝 License
 

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { AiFillSetting, AiOutlineAudio, AiOutlineLeft } from 'react-icons/ai';
 import './Nav.css';
 
 function Nav() {
@@ -27,16 +28,21 @@ function Nav() {
     <div className={`nav ${show && 'nav__black'}`}>
       <div className="nav__contents">
         {/* logo of air pollution */}
-        <img
-          className="nav__logo"
-          src="https://upload.wikimedia.org/wikipedia/commons/7/71/Cloud_Logo.png"
-          alt="logo"
-        />
-        <ul className="nav__links">
-          <Link style={linkStyle} to="/">
-            <li className="nav__link">Home</li>
+        <h1 className="nav__logo">
+          <Link to="/" style={linkStyle}>
+            <AiOutlineLeft />
           </Link>
-          <li className="nav__link">About</li>
+        </h1>
+        <ul className="nav__links">
+          {/* <Link style={linkStyle} to="/"> */}
+          <li className="nav__link">
+            <AiOutlineAudio className="nav__icon" />
+          </li>
+
+          {/* </Link> */}
+          <li className="nav__link">
+            <AiFillSetting className="nav__icon" />
+          </li>
         </ul>
       </div>
     </div>
