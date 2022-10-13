@@ -19,11 +19,14 @@
 
 .nav__logo {
   position: fixed;
+  display: flex;
   top: 5px;
   left: 0;
-  width: 60px;
+  font-size: 1.5rem;
   cursor: pointer;
   padding-left: 10px;
+  padding-top: 15px;
+  align-items: center;
 }
 
 .nav__links {
@@ -37,4 +40,5 @@
 
 .nav__link {
   cursor: pointer;
+  font-size: 1.5rem;
 }

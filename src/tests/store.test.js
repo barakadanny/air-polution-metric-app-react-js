@@ -1,12 +1,12 @@
-import store from "../redux/configStore";
-import { fetchData } from "../redux/reducer/place";
+import store from '../redux/configStore';
+import { fetchData } from '../redux/reducer/place';
 
-describe("Store", () => {
-  it("should render the initial state", () => {
+describe('Store', () => {
+  it('should render the initial state', () => {
     expect(store.getState()).toEqual({ place: {} });
   });
 
-  it("should render the state after fetching data", () => {
+  it('should render the state after fetching data', () => {
     const data = {
       co: 0.0001,
       no: 0.0001,

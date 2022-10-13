@@ -1,46 +1,46 @@
-import React from "react";
-import { render } from "@testing-library/react";
-import "@testing-library/jest-dom";
-import { BrowserRouter as Router } from "react-router-dom";
-import { Provider } from "react-redux";
-import store from "../redux/configStore";
+import React from 'react';
+import { render } from '@testing-library/react';
+import '@testing-library/jest-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
+import { Provider } from 'react-redux';
+import store from '../redux/configStore';
 
-import Nav from "../components/Nav";
-import ItemDetail from "../components/itemScreen/ItemDetail";
-import Items from "../components/homeScreen/Items";
+import Nav from '../components/Nav';
+import ItemDetail from '../components/itemScreen/ItemDetail';
+import Items from '../components/homeScreen/Items';
 
-describe("Navbar", () => {
-  it("should render the navbar", () => {
+describe('Navbar', () => {
+  it('should render the navbar', () => {
     const nav = render(
       <Router>
         <Nav />
-      </Router>
+      </Router>,
     );
     expect(nav).toMatchSnapshot();
   });
 });
 
-describe("ItemDetail", () => {
-  it("should render the item detail", () => {
+describe('ItemDetail', () => {
+  it('should render the item detail', () => {
     const item = render(
       <Provider store={store}>
         <Router>
           <ItemDetail />
         </Router>
-      </Provider>
+      </Provider>,
     );
     expect(item).toMatchSnapshot();
   });
 });
 
-describe("Items", () => {
-  it("should render the items", () => {
+describe('Items', () => {
+  it('should render the items', () => {
     const items = render(
       <Provider store={store}>
         <Router>
           <Items />
         </Router>
-      </Provider>
+      </Provider>,
     );
     expect(items).toMatchSnapshot();
   });
