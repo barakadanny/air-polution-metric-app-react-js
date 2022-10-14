@@ -15,8 +15,6 @@
 
 - [Click here for Live Demo 🚀](https://silver-lamington-1c50bf.netlify.app//)
 
-- [Project Presentation 🎥](https://drive.google.com/file/d/1BOg3MGJPsp1UsGmdUok-hcfAABocKJTc/view?usp=sharing)
-
 ## Getting Started
 
 Following are some instruction to use this project locally.
