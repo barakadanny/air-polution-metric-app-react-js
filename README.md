@@ -44,6 +44,13 @@ Following are some instruction to use this project locally.
 
 - Run `npm test` to run the tests
 
+## Authors
+
+👤 **Baraka Danny (Me)**
+
+- GitHub: [@barakadan](https://github.com/barakadanny)
+- LinkedIn: [danny baraka](https://www.linkedin.com/in/danny-baraka)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
